@@ -140,6 +140,10 @@ Special attention was given to:
 
 ## **7. Additional Considerations**
 
+
+https://github.com/user-attachments/assets/200d98b1-8cce-40d3-970e-ee5cabd3ae35
+
+
 ### Improvements that can be added:
 
 * Door animation system (open/close)
